@@ -63,8 +63,8 @@ hydra -l root -P rockyou.txt ssh://<IP_VICTIMA>
 
 Screenshots of alerts and dashboard:
 
-![alert](screenshots/alert1.png)
-![dashboard](screenshots/dashboard.png)
+<img width="814" height="369" alt="Captura de pantalla 2026-04-22 142752" src="https://github.com/user-attachments/assets/3b645022-e843-47f5-8aef-a59e268c6061" />
+
 
 ---
 
