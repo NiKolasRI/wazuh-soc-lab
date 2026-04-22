@@ -64,6 +64,11 @@ hydra -l root -P rockyou.txt ssh://<IP_VICTIMA>
 Screenshots of alerts and dashboard:
 
 <img width="814" height="369" alt="Captura de pantalla 2026-04-22 142752" src="https://github.com/user-attachments/assets/3b645022-e843-47f5-8aef-a59e268c6061" />
+<img width="664" height="356" alt="image" src="https://github.com/user-attachments/assets/50e056fb-d307-42d9-8c64-33d7a7be334c" />
+<img width="662" height="338" alt="image" src="https://github.com/user-attachments/assets/74acf6b9-653c-4d74-a16b-93e2593ab91c" />
+<img width="671" height="341" alt="image" src="https://github.com/user-attachments/assets/2e1dce79-b843-4f62-acaa-53ce463e02ff" />
+
+
 
 
 ---
@@ -77,11 +82,12 @@ An incident report was created for the SSH brute force attack:
 * Analysis of logs and alerts
 * Response actions applied
 
-(See `/reports/incident-ssh-bruteforce.md`)
+<img width="673" height="351" alt="image" src="https://github.com/user-attachments/assets/83f74d03-6206-44c4-8d5a-c777271cc52e" />
 
 ---
 
 ## ⚙️ Setup Summary
+
 
 ### Install Wazuh Agent
 
